@@ -2,7 +2,7 @@
 
 <!-- GIF roxo em destaque -->
 <div align="center">
-  <iframe src="https://gifer.com/embed/74pZ" width="480" height="360" frameBorder="0" allowFullScreen></iframe>
+  <img src="https://media.giphy.com/media/74pZycmWdtWZtWHg4V/giphy.gif" width="480"  width="480" height="360" frameBorder="0" allowFullScreen>/>
   <p><a href="https://gifer.com">via GIFER</a></p>
 </div>
 

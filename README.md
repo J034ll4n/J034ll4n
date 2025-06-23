@@ -1,10 +1,18 @@
-<h2 align="center">Hi 👋! My name is Joe Allan</h2> 
+<h2 align="center">Hi 👋! My name is Joe Allan</h2>
+
+<!-- GIF roxo em destaque -->
+<div align="center">
+  <iframe src="https://gifer.com/embed/74pZ" width="480" height="360" frameBorder="0" allowFullScreen></iframe>
+  <p><a href="https://gifer.com">via GIFER</a></p>
+</div>
+
+---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J034ll4n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J034ll4n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=J034ll4n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J034ll4n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -27,35 +35,21 @@
 
 ---
 
-### 📫 Reach Me
-
-<div align="center">
-  <!-- YouTube reservado -->
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  <a href="https://www.linkedin.com/in/joe-allan-zirn-2bb0b62b1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>
-
----
 
 ### 👥 Visitor Counter
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/J034ll4n/count.svg?" alt="Profile views" />
+  <img src="https://profile-counter.glitch.me/J034ll4n/count.svg?" alt="Visitor Count" />
 </div>
 
 ---
 
-### 🔗 Social Icons (em breve com links reais)
+### 🔗 Social Icons
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joe-allan-zirn-2bb0b62b1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <!-- Youtube canal será adicionado -->
+  <!-- Espaço reservado para o YouTube -->
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" />
 </div>

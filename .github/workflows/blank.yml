@@ -1,0 +1,42 @@
+name: Update Visitor Count
+
+on:
+  workflow_dispatch: # Permite disparar manualmente
+  schedule:
+    - cron: '0 * * * *' # Executa a cada hora para garantir a atualização
+  push:
+    branches:
+      - master # Ou main, dependendo da sua branch principal
+
+jobs:
+  update-count:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Hit CountAPI
+        run: |
+          # URL para o seu contador específico no countapi.xyz
+          # Substitua 'J034ll4n_profile_visits' pela sua chave
+          curl -s "https://api.countapi.xyz/hit/J034ll4n_profile_visits/visits" > /dev/null
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Necessário para commits por Actions, se for atualizar algo
+
+      - name: Commit changes (optional, if you want to update README with the number)
+        # Este passo é opcional e só necessário se você quiser o *número atual* salvo no README
+        # Se você só usa a imagem Shields.io, ela já chama a API.
+        # Mas para garantir que a API seja "hitada" mesmo que o README não seja visto,
+        # este action faz a chamada.
+        run: |
+          # Aqui você pode adicionar lógica para ler o número e atualizar o README.md,
+          # mas para o badge Shields.io, o 'curl' acima já é o suficiente para o contador.
+          # Este passo pode ser omitido se você só quer que o badge atualize.
+          # Se o badge Shields.io já chama a API, este action garante que a API seja chamada pelo menos uma vez por hora/push.
+          echo "CountAPI hit for J034ll4n_profile_visits"
+
+      - name: Verify count (optional debug)
+        run: |
+          # Você pode testar se o contador está funcionando
+          # Substitua 'J034ll4n_profile_visits' pela sua chave
+          curl "https://api.countapi.xyz/get/J034ll4n_profile_visits/visits"

@@ -48,7 +48,7 @@ These are the technologies and tools central to my work in data analysis, machin
 See how many people are exploring my work!
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=J034ll4n.J034ll4n" alt="Visitor Count" />
+  <img src="https://shields-io-api-proxy.glitch.me/badges/counter?count=https://api.countapi.xyz/hit/J034ll4n_profile_visits/visits&label=Visitas&labelColor=555555&color=282C34&style=flat" alt="Contador de Visitas" />
 </div>
 ---
 

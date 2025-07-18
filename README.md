@@ -44,13 +44,6 @@ These are the technologies and tools central to my work in data analysis, machin
 
 ---
 
-### 🌐 Profile Analytics
-See how many people are exploring my work!
-
-<div align="center">
-  <img src="https://visitors-count-badge.glitch.me/badge?page_id=J034ll4n.J034ll4n" alt="Contador de Visitas" />
-</div>
----
 
 ### 🔗 Connect & Collaborate
 Let's connect! I'm always open to discussing data challenges, machine learning projects, or innovative development solutions.

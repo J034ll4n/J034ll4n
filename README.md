@@ -48,8 +48,8 @@ These are the technologies and tools central to my work in data analysis, machin
 See how many people are exploring my work!
 
 <div align="center">
-  <img src="https://simple-analytics-badge.vercel.app/api/counter?username=J034ll4n&repo=J034ll4n" alt="Contador de Visitas" />
-  </div>
+  <img src="https://visitors-count-badge.glitch.me/badge?page_id=J034ll4n.J034ll4n" alt="Contador de Visitas" />
+</div>
 ---
 
 ### 🔗 Connect & Collaborate

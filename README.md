@@ -48,9 +48,8 @@ These are the technologies and tools central to my work in data analysis, machin
 See how many people are exploring my work!
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/J034ll4n/count.svg?" alt="Visitor Count" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=J034ll4n.J034ll4n" alt="Visitor Count" />
 </div>
-
 ---
 
 ### 🔗 Connect & Collaborate

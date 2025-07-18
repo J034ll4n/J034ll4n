@@ -48,8 +48,8 @@ These are the technologies and tools central to my work in data analysis, machin
 See how many people are exploring my work!
 
 <div align="center">
-  <img src="https://shields-io-api-proxy.glitch.me/badges/counter?count=https://api.countapi.xyz/hit/J034ll4n_profile_visits/visits&label=Visitas&labelColor=555555&color=282C34&style=flat" alt="Contador de Visitas" />
-</div>
+  <img src="https://simple-analytics-badge.vercel.app/api/counter?username=J034ll4n&repo=J034ll4n" alt="Contador de Visitas" />
+  </div>
 ---
 
 ### 🔗 Connect & Collaborate

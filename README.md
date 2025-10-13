@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Joe Allan, a passionate Data Developer & Analyst 👋</h1>
+<h1 align="center">Hello! I'm Joe Allan Zirn, a passionate Data Developer & Analyst 👋</h1>
 
 <p align="center">
   Leveraging code to extract insights, build intelligent solutions, and tell compelling stories with data. My journey blends development prowess with a deep dive into data science principles.

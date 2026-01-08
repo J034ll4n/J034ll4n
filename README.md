@@ -1,27 +1,38 @@
 <h1 align="center">Hello! I'm Joe Allan Zirn 👋</h1>
 <h3 align="center">Data Engineer | Data Analyst | Scientist</h3>
 
-<p align="center">
-  <b>Turning raw data into strategic assets.</b><br>
-  I specialize in building robust Data Lakehouses on the Cloud, automating ETL pipelines, and extracting actionable insights through advanced analytics.
-</p>
+<div align="center">
+  <p>
+    🇺🇸 <b>Turning raw data into strategic assets.</b><br>
+    I specialize in building robust Data Lakehouses on the Cloud, automating ETL pipelines, and extracting actionable insights through advanced analytics.
+  </p>
+  <p>
+    🇧🇷 <b>Transformando dados brutos em ativos estratégicos.</b><br>
+    Sou especialista em construir Data Lakehouses robustos na Nuvem, automatizar pipelines de ETL e extrair insights acionáveis através de analytics avançado.
+  </p>
+</div>
 
 ---
 
 ### 🚀 Featured Project: PNAD COVID-19 Intelligence
-A complete **Data Engineering & Analytics** solution on AWS to analyze pandemic trends.
+<p align="center">
+  🇺🇸 A complete <b>Data Engineering & Analytics</b> solution on AWS to analyze pandemic trends.<br>
+  🇧🇷 Uma solução completa de <b>Engenharia de Dados e Analytics</b> na AWS para análise da pandemia.
+</p>
+
 <p align="center">
   <a href="https://github.com/J034ll4n/SEU-REPOSITORIO-PNAD-AQUI">
     <img src="https://img.shields.io/badge/AWS-Data_Lakehouse-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/PySpark-Big_Data-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-Data_Quality-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/View-Project_Repository-success?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ### 🧠 The Data Stack
-My toolkit covers the full lifecycle of data:
+My toolkit covers the full lifecycle of data / *Meu toolkit cobre todo o ciclo de vida dos dados*:
 
 #### ☁️ Cloud & Data Engineering
 <div style="display: inline_block"><br>
@@ -50,17 +61,11 @@ My toolkit covers the full lifecycle of data:
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=J034ll4n&theme=flat&no-frame=true&margin-w=15" alt="J034ll4n" />
-  </a>
-</div>
-
----
-
-### 🔗 Let's Connect
-I'm open to discussing Data Architecture, ETL Challenges, and Predictive Modeling.
+### 🔗 Let's Connect / Vamos nos Conectar
+<p align="center">
+  I'm open to discussing Data Architecture, ETL Challenges, and Predictive Modeling.<br>
+  <i>Estou disponível para discutir Arquitetura de Dados, Desafios de ETL e Modelagem Preditiva.</i>
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joe-allan-zirn-2bb0b62b1/" target="_blank">

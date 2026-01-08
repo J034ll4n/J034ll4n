@@ -52,12 +52,9 @@ My toolkit covers the full lifecycle of data:
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J034ll4n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J034ll4n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true" height="150" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J034ll4n&show_icons=true&theme=dark&hide_border=true)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=J034ll4n&layout=compact&theme=dark&hide_border=true)
 
 ### 🔗 Let's Connect
 I'm open to discussing Data Architecture, ETL Challenges, and Predictive Modeling.

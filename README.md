@@ -49,12 +49,10 @@ My toolkit covers the full lifecycle of data:
 </div>
 
 ---
-
-### 📈 GitHub Stats
+### 🔥 GitHub Streak & Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J034ll4n&show_icons=true&theme=dark&hide_border=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=J034ll4n&layout=compact&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J034ll4n&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 🔗 Let's Connect

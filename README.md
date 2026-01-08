@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 Featured Project: PNAD COVID-19 Intelligence
-A complete **Data Engineering & Analytics** solution on AWS to analyze pandemic trends for hospital strategic planning.
+A complete **Data Engineering & Analytics** solution on AWS to analyze pandemic trends.
 <p align="center">
   <a href="https://github.com/J034ll4n/SEU-REPOSITORIO-PNAD-AQUI">
     <img src="https://img.shields.io/badge/AWS-Data_Lakehouse-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -49,11 +49,15 @@ My toolkit covers the full lifecycle of data:
 </div>
 
 ---
-### 🔥 GitHub Streak & Stats
 
+### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J034ll4n&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=J034ll4n&theme=flat&no-frame=true&margin-w=15" alt="J034ll4n" />
+  </a>
 </div>
+
+---
 
 ### 🔗 Let's Connect
 I'm open to discussing Data Architecture, ETL Challenges, and Predictive Modeling.

@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Joe Allan Zirn</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Engenheiro+de+Dados;Google+Cloud+Certified;Especialista+em+Modern+Data+Stack;Consultor+de+Dados" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Engenheiro+de+Dados;Google+Cloud+Certified;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,12 +11,12 @@ Com a certificação oficial **Google Cloud Associate Data Engineer**, possuo s�
 
 ---
 
-### 💼 Atuação e Foco Técnico
+###  Atuação e Foco Técnico
 
-- 🏗️ **Arquitetura de Soluções:** Desenho e implementação de Lakehouses e Data Warehouses modernos para múltiplos cenários de negócios.
-- ⚙️ **Ecossistema em Foco:** Especialização ativa na *Modern Data Stack*, construindo e otimizando pipelines escaláveis com **Databricks**, **Apache Spark** e **dbt**.
-- ☁️ **Cloud e Validação:** Capacidade comprovada em desenhar infraestruturas analíticas em nuvem, validada pela certificação oficial do Google Cloud.
-- 💡 **Expertise Central:** Modelagem de dados, otimização de performance de processamento (Spark SQL/GCP) e governança de dados (Unity Catalog).
+-  **Arquitetura de Soluções:** Desenho e implementação de Lakehouses e Data Warehouses modernos para múltiplos cenários de negócios.
+-  **Ecossistema em Foco:** Especialização ativa na *Modern Data Stack*, construindo e otimizando pipelines escaláveis com **Databricks**, **Apache Spark** e **dbt**.
+-  **Cloud e Validação:** Capacidade comprovada em desenhar infraestruturas analíticas em nuvem, validada pela certificação oficial do Google Cloud.
+-  **Expertise Central:** Modelagem de dados, otimização de performance de processamento (Spark SQL/GCP) e governança de dados (Unity Catalog).
 
 ---
 
@@ -37,9 +37,14 @@ Com a certificação oficial **Google Cloud Associate Data Engineer**, possuo s�
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
+**Infraestrutura & Orquestração:**
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 ---
 
-### 📊 Visão Geral do GitHub
+###  Visão Geral do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=J034ll4n&show_icons=true&theme=nord&hide_border=true" alt="Estatísticas do GitHub" width="48%" />

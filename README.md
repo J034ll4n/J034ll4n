@@ -23,7 +23,9 @@ Com a certificação oficial **Google Cloud Associate Data Engineer**, possuo s�
 ### 🛠️ Stack Tecnológica
 
 **Cloud & Certificações:**
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud_Associate-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Databricks Fundamentals](https://img.shields.io/badge/Databricks_Fundamentals-FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![dbt Fundamentals](https://img.shields.io/badge/dbt_Fundamentals-FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white)
 
 **Processamento, Orquestração & Analytics:**
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white)

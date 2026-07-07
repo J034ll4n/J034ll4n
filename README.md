@@ -3,50 +3,52 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Engenheiro+de+Dados;Google+Cloud+Certified;" alt="Typing SVG" />
   </a>
+  <br>
+  <p><i>Traduzindo desafios complexos de negócios em soluções de dados eficientes, resilientes e governadas.</i></p>
 </div>
-
-Atuo como Engenheiro de Dados no setor de consultoria, especializado em projetar, construir e otimizar arquiteturas de dados escaláveis que impulsionam a tomada de decisão estratégica de negócios. 
-
-Com a certificação oficial **Google Cloud Associate Data Engineer**, possuo sólida base na arquitetura e operacionalização de sistemas de processamento de dados em nuvem. Meu objetivo é traduzir desafios complexos de negócios em soluções de dados eficientes, resilientes e governadas.
 
 ---
 
-###  Atuação e Foco Técnico
+Atuo como **Engenheiro de Dados** no setor de consultoria, especializado em projetar, construir e otimizar arquiteturas de dados escaláveis que impulsionam a tomada de decisão estratégica de negócios. 
 
--  **Arquitetura de Soluções:** Desenho e implementação de Lakehouses e Data Warehouses modernos para múltiplos cenários de negócios.
--  **Ecossistema em Foco:** Especialização ativa na *Modern Data Stack*, construindo e otimizando pipelines escaláveis com **Databricks**, **Apache Spark** e **dbt**.
--  **Cloud e Validação:** Capacidade comprovada em desenhar infraestruturas analíticas em nuvem, validada pela certificação oficial do Google Cloud.
--  **Expertise Central:** Modelagem de dados, otimização de performance de processamento (Spark SQL/GCP) e governança de dados (Unity Catalog).
+Com a certificação oficial **Google Cloud Associate Data Engineer**, possuo sólida base na arquitetura e operacionalização de sistemas de processamento de dados em nuvem. 
+
+### 🎯 Atuação e Foco Técnico
+
+* **Arquitetura de Soluções:** Desenho e implementação de Lakehouses e Data Warehouses modernos para múltiplos cenários de negócios.
+* **Ecossistema em Foco:** Especialização ativa na *Modern Data Stack*, construindo e otimizando pipelines escaláveis com **Databricks**, **Apache Spark** e **dbt**.
+* **Cloud e Validação:** Capacidade comprovada em desenhar infraestruturas analíticas em nuvem, validada pela certificação oficial do Google Cloud.
+* **Expertise Central:** Modelagem de dados, otimização de performance de processamento (Spark SQL/GCP) e governança de dados (Unity Catalog).
 
 ---
 
 ### 🛠️ Stack Tecnológica
 
-**Cloud & Certificações:**
+**☁️ Cloud & Certificações:**<br>
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud_Associate-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Databricks Fundamentals](https://img.shields.io/badge/Databricks_Fundamentals-FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![dbt Fundamentals](https://img.shields.io/badge/dbt_Fundamentals-FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white)
 
-**Processamento, Orquestração & Analytics:**
+**⚙️ Processamento, Orquestração & Analytics:**<br>
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/apache_spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-**Linguagens & Bancos de Dados:**
+**💻 Linguagens & Bancos de Dados:**<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-**Infraestrutura & Orquestração:**
+**🏗️ Infraestrutura & DevOps:**<br>
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-###  Visão Geral do GitHub
+### 📊 Visão Geral do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=J034ll4n&show_icons=true&theme=nord&hide_border=true" alt="Estatísticas do GitHub" width="48%" />
@@ -57,10 +59,13 @@ Com a certificação oficial **Google Cloud Associate Data Engineer**, possuo s�
 
 ### 📫 Contato e Credenciais
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-allan-zirn-2bb0b62b1/)
-[![Credly](https://img.shields.io/badge/Credly-Certificação_GCP-0f1c3d?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/joe-allan-zirn)
-
-<br>
 <div align="center">
+  <a href="https://www.linkedin.com/in/joe-allan-zirn-2bb0b62b1/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.credly.com/users/joe-allan-zirn">
+    <img src="https://img.shields.io/badge/Credly-Certificação_GCP-0f1c3d?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
+  </a>
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=J034ll4n&label=Visualizações+do+Perfil&color=0077B5&style=for-the-badge" alt="Contador de Visitas" />
 </div>

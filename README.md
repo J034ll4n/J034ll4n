@@ -51,8 +51,8 @@ Com a certificação oficial **Google Cloud Associate Data Engineer**, possuo s�
 ### 📊 Visão Geral do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=J034ll4n&show_icons=true&theme=nord&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J034ll4n&layout=compact&theme=nord&hide_border=true" alt="Top Linguagens" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=J034ll4n&show_icons=true&theme=nord&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=J034ll4n&layout=compact&theme=nord&hide_border=true" alt="Top Linguagens" />
 </div>
 
 ---
